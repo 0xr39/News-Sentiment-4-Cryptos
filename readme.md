@@ -1,5 +1,7 @@
 # env setup
 
+*setup a .env with these params in repo root*
+
 sql_username = ''
 
 sql_password = ''
