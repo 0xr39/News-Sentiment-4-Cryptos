@@ -1,0 +1,7 @@
+# mac shit
+.DS_Store
+**/.DS_Store
+
+# env
+.env
+**/.env
