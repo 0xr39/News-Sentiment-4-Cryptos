@@ -13,3 +13,6 @@ sql_hostname = '127.0.0.1'
 sql_port = 3306
 
 tgBotKey = ''
+
+## test token
+BTC, ETH, LTC, AXS, MATIC, SAND, SOL, AVAX, UNI, DOT
