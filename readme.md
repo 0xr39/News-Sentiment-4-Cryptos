@@ -14,5 +14,7 @@ sql_port = 3306
 
 tgBotKey = ''
 
+openaiKey = ''
+
 ## test token
 BTC, ETH, LTC, AXS, MATIC, SAND, SOL, AVAX, UNI, DOT
